@@ -1,6 +1,9 @@
 //THIS IS MY SCHOOL PROJECT
 // FEES PAYMENT SYSTEM
 //chal hat
+
+// YOU WANTED COMMENTS
+
 import java.util.*;
 
 class fees_payment// class start

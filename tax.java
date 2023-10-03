@@ -1,5 +1,5 @@
 import java.util.*;
-
+//cehck parameters
 class tax {
     int age, sal, hra, lta, allo, other, ppf, funds, health, interest, gross = 0;
     int deduction, commi, lot, profit, agri, annuity, mf, tuition, medi, dona = 0;
